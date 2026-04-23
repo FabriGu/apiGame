@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# PlatformIO
+.pio/
+.vscode/
+
+# Secrets
+secrets.h
+.env
+credentials.json
+token.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data
+*.db
+
+# Logs
+excalidraw.log
